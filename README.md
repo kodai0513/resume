@@ -86,6 +86,7 @@ HardwareMyPortal|2024/8/19 - 2024/8/30|PHP,Laravel,Livewire|バックエンド�
 - 個人開発等で使ったもの
     - Go
     - Python
+    - Dart
 
 - かじった程度
     - C言語
@@ -96,10 +97,11 @@ HardwareMyPortal|2024/8/19 - 2024/8/30|PHP,Laravel,Livewire|バックエンド�
     - Laravel
     - .netFramework Windowsフォームアプリケーション
     - React
-- 実務で書いたもの
+- 個人開発等で書いたもの
     - Gin
     - Vue.js
     - FastAPI
+    - Flutter
 - かじった程度
     - Flask
 
